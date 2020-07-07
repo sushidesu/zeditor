@@ -1,6 +1,8 @@
 import React from "react"
 import { Global, css } from "@emotion/core"
 import styled from "@emotion/styled"
+import { Header } from "./Header"
+import { Footer } from "./Footer"
 
 export const Layout: React.FC = ({ children }) => (
   <Wrapper>
@@ -57,13 +59,4 @@ const Wrapper = styled.div`
   & > footer {
     grid-area: footer;
   }
-`
-
-const Header = styled.header`
-  background-color: #ccc;
-`
-
-const Footer = styled.footer`
-  background-color: #3e3e3e;
-  color: #eee;
 `
