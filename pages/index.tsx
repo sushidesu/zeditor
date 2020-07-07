@@ -1,14 +1,17 @@
+import React from "react"
 import Head from 'next/head'
+import { Layout } from "../src/components/Layout"
 
 export default () => {
   return (
-    <div>
+    <Layout>
       <Head>
         <title>Zeditor</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Zeditor</h1>
-    </div>
+      <h1>Simple Editor for Zdog.</h1>
+    </Layout>
   )
 }
+
