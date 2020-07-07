@@ -1161,6 +1161,11 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
+"@types/zdog@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@types/zdog/-/zdog-1.1.1.tgz#62daf2340fa417caef3b40adb0c028c777206a0e"
+  integrity sha512-pEtwfB3RqQQVFf5Vk92mnVW9XRXUEx2HMItcfg+dSHgMPG4W7jmzDvPbPJYNK8qyZNZNnNWLAqbQpluvOy2Mng==
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"
@@ -5816,3 +5821,8 @@ yaml@^1.7.2:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.10.0.tgz#3b593add944876077d4d683fee01081bd9fff31e"
   integrity sha512-yr2icI4glYaNG+KWONODapy2/jDdMSDnrONSjblABjD9B4Z5LgiircSt8m8sRZFNi08kG9Sm0uSHtEmP3zaEGg==
+
+zdog@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/zdog/-/zdog-1.1.2.tgz#e2193d9d2cfef30f516d4ba8f02d53b0b846fa53"
+  integrity sha512-bWObLl2t1M8RB8kNcOkAFLn52H8n8Hxd+DvYpExCwGPzFOEIJ9COFhG9sjoOV9Da3cv4d6BqFBICNc2Pz37YQw==
